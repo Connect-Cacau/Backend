@@ -55,67 +55,67 @@ Django Filter para filtragem de dados
  ```bash
   python manage.py runserver
  ```
- Endpoints da API
-Autenticação
+**Endpoints da API**
+**Autenticação**
 
 POST /api/cadastro/ - Registro de usuário
 POST /api/login/ - Login de usuário
 
-Gestão de Cacau
+**Gestão de Cacau**
 
 GET/POST /api/cacau/ - Listar/Criar registros de cacau
 
 GET/PUT/DELETE /api/cacau/{id}/ - Detalhar/Atualizar/Deletar registro específico
 
-Endereços
+**Endereços**
 
 GET/POST /api/endereco/ - Listar/Criar endereços
 
 GET/PUT/DELETE /api/endereco/{id}/ - Detalhar/Atualizar/Deletar endereço
 
-Cadastros
+**Cadastros**
 
 GET/POST /api/cadastro/ - Listar/Criar cadastros
 
 GET/PUT/DELETE /api/cadastro/{id}/ - Detalhar/Atualizar/Deletar cadastro
 
-Produtores
+**Produtores**
 
 GET/POST /api/produtor/ - Listar/Criar produtores
 
 GET/PUT/DELETE /api/produtor/{id}/ - Detalhar/Atualizar/Deletar produtor
 
-Comercialização
+**Comercialização**
 
 GET/POST /api/comercializacao/ - Listar/Criar comercializações
 
 GET/PUT/DELETE /api/comercializacao/{id}/ - Detalhar/Atualizar/Deletar comercialização
 
-Propriedades
+**Propriedades**
 
 GET/POST /api/propriedade/ - Listar/Criar propriedades
 
 GET/PUT/DELETE /api/propriedade/{id}/ - Detalhar/Atualizar/Deletar propriedade
 
-Produção
+**Produção**
 
 GET/POST /api/producao/ - Listar/Criar produções
 
 GET/PUT/DELETE /api/producao/{id}/ - Detalhar/Atualizar/Deletar produção
 
-Lotes
+**Lotes**
 
 GET/POST /api/lote/ - Listar/Criar lotes
 
 GET/PUT/DELETE /api/lote/{id}/ - Detalhar/Atualizar/Deletar lote
 
-Fermentação
+**Fermentação**
 
 GET/POST /api/fermentacao/ - Listar/Criar fermentações
 
 GET/PUT/DELETE /api/fermentacao/{id}/ - Detalhar/Atualizar/Deletar fermentação
 
-Empresas
+**Empresas**
 
 GET/POST /api/empresas/ - Listar/Criar empresas
 
