@@ -1,4 +1,3 @@
-Tem razão, vou enviar todo o conteúdo do README.md em uma única mensagem para facilitar a cópia:
 Backend Sistema de Gestão do Cacau
 Sistema desenvolvido em Django REST Framework para gerenciamento da produção e comercialização de cacau.
 📋 Funcionalidades
