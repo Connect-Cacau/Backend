@@ -25,7 +25,7 @@ Django Filter para filtragem de dados
 
 1-Clone o repositório:
  ```bash
-  git clone https://github.com/Connect-Cacau/Backend/tree/nova-branch
+  git clone https://github.com/Connect-Cacau/Backend/
   cd Backend
  ```
 2-Crie e ative o ambiente virtual:
